@@ -22,7 +22,7 @@ body{
 button{
 		position: absolute;
 		top: 20px;
-		right: 7%;
+		right: 2%;
 		width: 56px;
 		height: 40px;
 	}
@@ -114,5 +114,6 @@ li{
 		.container{
 			width: 80%;
 			max-width: 600px;
+			min-width:250px;
 		}
 	}
