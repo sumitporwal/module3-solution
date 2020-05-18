@@ -22,7 +22,7 @@ body{
 button{
 		position: absolute;
 		top: 20px;
-		right: 80px;
+		right: 7%;
 		width: 56px;
 		height: 40px;
 	}
@@ -112,7 +112,7 @@ li{
 	}
 @media screen and(max-width: 767px){	
 		.container{
-			width: 90%;
+			width: 80%;
 			max-width: 600px;
 		}
 	}
